@@ -1,6 +1,6 @@
-# 🚀 Custody Service (Ethereum Sepolia)
+# 🚀 Wallet Service (Ethereum Sepolia)
 
-A lightweight custody backend service built using **Node.js**, **TypeScript**, **Express.js**, and **Ethers.js v6**.
+A lightweight Wallet backend service built using **Node.js**, **TypeScript**, **Express.js**, and **Ethers.js v6**.
 
 The project demonstrates the core components of a crypto custody platform, including deterministic wallet generation, blockchain balance tracking, withdrawal processing, and transaction logging on the Ethereum Sepolia testnet.
 
