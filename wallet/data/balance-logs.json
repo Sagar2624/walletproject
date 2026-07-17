@@ -1,0 +1,29 @@
+[
+  {
+    "address": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "type": "INFLOW",
+    "oldBalance": "0.0",
+    "newBalance": "0.000464460619311367",
+    "timestamp": "2026-07-17T09:25:01.984Z"
+  },
+  {
+    "address": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "type": "INFLOW",
+    "amount": "0.0002",
+    "timestamp": "2026-07-17T10:10:02.834Z"
+  },
+  {
+    "address": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "type": "OUTFLOW",
+    "amount": "0.00001",
+    "txHash": "0xe5d85333aaf94ac87cf2779ecf102c4d54a4d9d1d14295eeab459776cc744a43",
+    "timestamp": "2026-07-17T10:13:50.810Z"
+  },
+  {
+    "address": "0xeA0545296B6a5B16e470aa690BcbA8815052CFbE",
+    "type": "INFLOW",
+    "amount": "0.00001",
+    "txHash": "0xe5d85333aaf94ac87cf2779ecf102c4d54a4d9d1d14295eeab459776cc744a43",
+    "timestamp": "2026-07-17T10:13:50.812Z"
+  }
+]
